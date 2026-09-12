@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Rudra-RNC
+/src/backend/database.py      @Rudra-RNC
+/src/backend/routers/auth.py  @Rudra-RNC
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Rudra-RNC
